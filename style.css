@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(14, 14, 207);
+    color: white;
+    font-family: sans-serif;
+}
+
+.bodyy{
+background-color: rgb(10, 10, 134);
+padding: 10px;
+width: 500px;
+}
+.button{
+    padding: 40px;
+}
+#result{
+    color: white;
+    background-color: rgb(14, 14, 207);
+    padding: 10px;
+    font-size: larger;
+    font-weight: bolder;
+}
